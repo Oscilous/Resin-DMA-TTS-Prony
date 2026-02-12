@@ -1,6 +1,6 @@
 # DMA to Prony Series - Viscoelastic Parameter Identification
 
-Identify generalised Maxwell (Prony series) parameters from DMA frequency-sweep data, with time-temperature superposition (TTS) for broadband characterisation. Built as a learning project for constitutive parameter identification, motivated by TVAM (Tomographic Volumetric Additive Manufacturing) resin modelling needs.
+Identify generalized Maxwell (Prony series) parameters from multi-temperature DMA frequency sweeps using Time-Temperature Superposition (TTS) master curves (WLF/Arrhenius shift factors) and export FE-ready material cards.
 
 ## Dataset
 
