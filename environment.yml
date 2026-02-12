@@ -1,0 +1,13 @@
+name: resin-dma2prony
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - openpyxl
+  - jupyter
+  - ipykernel
