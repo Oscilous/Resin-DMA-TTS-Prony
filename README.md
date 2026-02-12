@@ -1,4 +1,4 @@
-# DMA to Prony Series - Viscoelastic Parameter Identification
+# Thermo-Viscoelastic Identification from DMA: TTS Master Curve + Prony Series
 
 Identify generalized Maxwell (Prony series) parameters from multi-temperature DMA frequency sweeps using Time-Temperature Superposition (TTS) master curves (WLF/Arrhenius shift factors) and export FE-ready material cards.
 
